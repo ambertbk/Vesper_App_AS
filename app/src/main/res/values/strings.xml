@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Vesper_App</string>
+    <string name="pull">pull</string>
+    <string name="yahoonews" translatable="false">YahooNews (Test)</string>
+    <string name="GET" translatable="false">GET REQ</string>
+    <string name="AV" translatable="false">AlphaVantage (test)</string>
+    <string name="title_activity_login" translatable="false">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="ask_to_signup">Signup for a Vesper Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="blank_email">Email can\'t be blank</string>
+    <string name="blank_password">Password can\'t be empty</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="ask_to_login">Already have an account? Login.</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="prompt_display_name">Display Name</string>
+    <string name="email_empty_error">Email cannot be empty</string>
+    <string name="password_short_error">Password is too short</string>
+    <string name="password_unmatch_error">Passwords do not match</string>
+    <string name="email_invalid_error">Email is not in a valid format</string>
+    <string name="message_prompt">Enter your message here</string>
+    <string name="buy_signal">Buy@</string>
+    <string name="sell_message">Sell@</string>
+    <string name="stop_loss_message">Stop Loss@</string>
+    <string name="live_signal">LIVE</string>
+    <string name="expired_signal">EXPIRED</string>
+    <string name="close_signal">Close Signal</string>
+    <string name="signal_upvote">Upvote</string>
+    <string name="remove_signal_upvote">Remove Upvote</string>
+    <string name="search_stock_prompt">Search a stock!</string>
+    <string name="invalid_input">Input is not valid</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="logout">logout</string>
+    <string name="explore_groups">Explore Groups</string>
+    <string name="modify_watchlist">Modify Watchlist</string>
+    <string name="change_bear_color">Change bear color</string>
+    <string name="change_bull_color">Change bull color</string>
+    <string name="added_ticker_toast">Added Ticker</string>
+    <string name="ticker_not_exist_toast">This ticker does not exist</string>
+    <string name="select_add_remove">Select Add or Remove</string>
+    <string name="authorize_removal">Authorize Removal</string>
+    <string name="price">Price</string>
+    <string name="authorize_addition">Authorize Addition</string>
+    <string name="daily_change">Daily Change</string>
+    <string name="ticker">Ticker</string>
+    <string name="add_error">Not able to add to watchlist, wait and try again</string>
+    <string name="ready_add">Ready to Add, Press Submit</string>
+    <string name="ready_delete">Ready to Delete, Press Submit</string>
+    <string name="group_details">Details</string>
+    <string name="list_groups">Joined Groups: </string>
+    <string name="user">User Profile</string>
+    <string name="no_group">No group</string>
+    <string name="join_group">JOIN</string>
+    <string name="number_of_members">Number of members:</string>
+    <string name="rating_score">Rating Score:</string>
+    <string name="performance">PERFORMANCE</string>
+    <string name="excellent_signals_count">Excellent Signals Count:</string>
+    <string name="profitable_signals_count">Profitable Signals Count:</string>
+    <string name="select_button_prompt">Select a Button Below before Submitting</string>
+    <string name="invalid_ticker">Not a valid ticker</string>
+</resources>
